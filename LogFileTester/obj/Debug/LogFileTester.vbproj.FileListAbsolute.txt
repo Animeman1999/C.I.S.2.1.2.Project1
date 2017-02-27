@@ -1,0 +1,14 @@
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\bin\Debug\LogFileTester.exe.config
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\bin\Debug\LogFileTester.exe
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\bin\Debug\LogFileTester.pdb
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\bin\Debug\LogFileTester.xml
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\obj\Debug\LogFileTester.vbprojResolveAssemblyReference.cache
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\obj\Debug\LogFileTester.LogFileTester.resources
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\obj\Debug\LogFileTester.Resources.resources
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\obj\Debug\LogFileTester.vbproj.GenerateResource.Cache
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\obj\Debug\LogFileTester.exe
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\obj\Debug\LogFileTester.xml
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\obj\Debug\LogFileTester.pdb
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\bin\Debug\LogFileHandler.dll
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\bin\Debug\LogFileHandler.pdb
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileTester\bin\Debug\LogFileHandler.xml

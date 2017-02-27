@@ -7,3 +7,12 @@ G:\ClassesWinter2017\Advance Visual Basic\LogFileHandler\LogFileHandler\LogFileH
 G:\ClassesWinter2017\Advance Visual Basic\LogFileHandler\LogFileHandler\LogFileHandler\obj\Debug\LogFileHandler.dll
 G:\ClassesWinter2017\Advance Visual Basic\LogFileHandler\LogFileHandler\LogFileHandler\obj\Debug\LogFileHandler.xml
 G:\ClassesWinter2017\Advance Visual Basic\LogFileHandler\LogFileHandler\LogFileHandler\obj\Debug\LogFileHandler.pdb
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileHandler\bin\Debug\LogFileHandler.dll
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileHandler\bin\Debug\LogFileHandler.pdb
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileHandler\bin\Debug\LogFileHandler.xml
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileHandler\obj\Debug\LogFileHandler.vbprojResolveAssemblyReference.cache
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileHandler\obj\Debug\LogFileHandler.Resources.resources
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileHandler\obj\Debug\LogFileHandler.vbproj.GenerateResource.Cache
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileHandler\obj\Debug\LogFileHandler.dll
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileHandler\obj\Debug\LogFileHandler.xml
+G:\ClassesWinter2017\AdvanceVisualBasic\CIS212Project1\LogFileHandler\obj\Debug\LogFileHandler.pdb

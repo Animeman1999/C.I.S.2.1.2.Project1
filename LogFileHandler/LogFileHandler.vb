@@ -96,7 +96,9 @@ Public Class LogFileHandler
     ''' <param name="loggedMessage">String</param>
     Public Function WriteToLog(ByVal textualKey As String, ByVal loggedMessage As String) As String
 
-        Dim errorString As String = ""
+        'String to hole error message to be returned by function.  If not overwritten with a pass error
+        'message will be returned.
+        Dim errorString As String = "Error Not Processed"
 
         'Check the value assigned to _fileTypeChosen at instantiation then call the approptirate subroutine.
         'Note that any formating of the data should be done here (inside each case) so that the method called 
@@ -166,8 +168,8 @@ Public Class LogFileHandler
     ''' <param name="outputString">String</param>
     Private Function WriteToTextFile(ByVal outputString As String) As String
 
-        'String to hold error message. Empty unless error occors.
-        Dim errorString As String = ""
+        'String to hold error message. Passed unless error occors.
+        Dim errorString As String = "Passed"
 
         'Create a variable that will hold the StreamWrite. Empty due to how it will be constructed
         'based upon if there is a file that allready exist or not.
@@ -207,7 +209,8 @@ Public Class LogFileHandler
 
     Private Function WriteToSQLServerDatabase(ByVal textualKey As String, ByVal dateTime As DateTime, ByVal loggedMessage As String) As String
 
-        Dim errorString As String = "Error WriteToSQLServerDatabase function has not been written"
+        Dim errorString As String = "Error WriteToSQLServerDatabase function has not been written." +
+                                    Environment.NewLine + "Contact Adminstrator."
 
         'Not written per project instructions.
 
